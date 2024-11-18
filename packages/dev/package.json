@@ -1,0 +1,7 @@
+{
+  "name": "@ahaines/example-dev",
+  "private": true,
+  "dependencies": {
+    "prettier": "3.3.3"
+  }
+}

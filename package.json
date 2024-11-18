@@ -1,0 +1,8 @@
+{
+  "name": "@ahaines/example-monorepo",
+  "private": true,
+  "packageManager": "pnpm@9.12.3",
+  "devDependencies": {
+    "@ahaines/example-dev": "workspace:*"
+  }
+}
